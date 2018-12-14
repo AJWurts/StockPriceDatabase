@@ -1,1 +1,0 @@
-mongod --dbpath=C:/R/StockPriceDatabase/data
